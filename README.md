@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Bienvenido a mi extraño mundo hecho de código que no funciona correctamente
 <!--
 **mariverg/mariverg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
